@@ -1,2 +1,5 @@
 # tex
-text editor using win32 api
+1. open
+2. save and save as
+## compile command
+gcc tex.c -l
