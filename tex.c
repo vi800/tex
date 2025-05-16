@@ -1,7 +1,3 @@
-//gcc main.c -lkernel32 -luser32 -lgdi32 -lcomdlg32
-
-
-
 #include <stdio.h>
 #include <windows.h>
 
