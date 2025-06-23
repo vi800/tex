@@ -110,7 +110,6 @@ void textinit(HWND wnd)
 
 int new()
 {
-	//add dialog instd if msg box
 	int mb = MessageBox(txwnd, "Do you want to save?", "Workbench",
 			MB_YESNO|MB_ICONWARNING);
 	if(mb==IDYES) {
